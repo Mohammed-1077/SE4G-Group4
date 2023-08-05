@@ -1,2 +1,2 @@
 # SE4GI_webapp
-VISUALIZATION AND ANALYSIS OF THE ALPHA (Informal Appropriation of Public Space for Leisure Physical Activity) CITIZEN SCIENCE STUDY IN LAGOS, NIGERIA 
+Visualization and analysis of the alpha (informal appropriation of public space for leisure physical activity) citizen science study in lagos, Nigeria.
